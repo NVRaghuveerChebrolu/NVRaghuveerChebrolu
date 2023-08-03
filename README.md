@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nvRaghuveerChebrolu](https://github.com/nvRaghuveerChebrolu)
 
-- 📝 I regularly write articles on [Tech,Testing,Selenium,Automation,API Testing](Tech,Testing,Selenium,Automation,API Testing)
+- 📝 I regularly write articles on [Tech,Testing,Selenium,Automation,API Testing]
 
 - 💬 Ask me about **Manual Testing , Selenium, API Testing, API Automation**
 
