@@ -1,8 +1,3 @@
-[![](https://raw.githubusercontent.com/NVRaghuveerChebrolu/thickduck/master/profile-summary-card-output/yeblu/0-profile-details.svg)]
-[![](https://raw.githubusercontent.com/NVRaghuveerChebrolu/thickduck/master/profile-summary-card-output/yeblu/1-repos-per-language.svg)]
-(https://raw.githubusercontent.com/NVRaghuveerChebrolu/thickduck/master/profile-summary-card-output/yeblu/2-most-commit-language.svg)]
-[![](https://raw.githubusercontent.com/NVRaghuveerChebrolu/thickduck/master/profile-summary-card-output/yeblu/3-stats.svg)](https://raw.githubusercontent.com/NVRaghuveerChebrolu/thickduck/master/profile-summary-card-output/yeblu/4-productive-time.svg)]
-
 <h1 align="center">Hi 👋, I'm Naga Venkata Raghuveer Chebrolu</h1>
 <h3 align="center">A Passionate Automation Tester/Trainer From Hyderabad,India</h3>
 
