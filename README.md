@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvraghuveerchebrolu&label=Profile%20views&color=0e75b6&style=flat" alt="nvraghuveerchebrolu" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/nvRaghuveerChebrolu](https://github.com/nvRaghuveerChebrolu)
-- **Note**: I do have private projects which need access. Please reach out to me for more details.
+  **Note**: I do have private projects which need access. Please reach out to me for more details.
   
 - 📝 I regularly write articles on [Tech,Testing,Selenium,Automation,API Testing]
 
