@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naga Venkata Raghuveer Chebrolu</h1>
-<h3 align="center">A Passionate QA/Automation Tester/Trainer From Hyderabad,India</h3>
+<h3 align="center">A Passionate QA/Automation Tester/SDET Trainer in Berlin, Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvraghuveerchebrolu&label=Profile%20views&color=0e75b6&style=flat" alt="nvraghuveerchebrolu" /> </p>
 
