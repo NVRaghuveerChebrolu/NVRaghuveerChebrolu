@@ -4,13 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvraghuveerchebrolu&label=Profile%20views&color=0e75b6&style=flat" alt="nvraghuveerchebrolu" /> </p>
 
 - 👨‍💻 All of my public projects are available at [https://github.com/nvRaghuveerChebrolu](https://github.com/nvRaghuveerChebrolu)
-  **Note**: I do have private projects which need access. Please reach out to me for more details.
+
+- **Note**: I do have private projects which need access. Please reach out to me for more details.
   
 - 📝 I regularly write articles on [Tech, Testing, Selenium, Java, Automation Testing, API Testing]
 
 - 💬 Ask me about **Manual Testing, Selenium, API Testing, API Automation**
 
-- 📫 How to reach me **raghuchnv@gmail.com , nvraghuveertrainer@gmail.com, nvraghuveerch@gmail.com**
+- 📫 How to reach me **nvraghuveerch@gmail.com , raghuchnv@gmail.com , nvraghuveertrainer@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
