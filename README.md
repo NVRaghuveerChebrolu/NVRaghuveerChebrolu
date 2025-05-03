@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/nvRaghuveerChebrolu](https://github.com/nvRaghuveerChebrolu)
 
- **Note**: I do have private projects which need access. Please reach out to me for more details.
+     **Note**: I do have private projects which need access. Please reach out to me for more details.
   
 - 📝 I regularly write articles on [Tech, Testing, Selenium, Java, Automation Testing, API Testing]
 
