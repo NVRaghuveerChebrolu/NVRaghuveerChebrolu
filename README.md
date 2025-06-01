@@ -9,7 +9,7 @@
   
 - 📝 I regularly write articles on [Tech, Testing, Selenium, Java, Python, Automation Testing, API Testing]
 
-- 💬 Ask me about **Manual Testing, Selenium, API Testing, API Automation**
+- 💬 Ask me about **Manual Testing, Selenium, Java, Python, GitHub, Jenkins, API Testing, API Automation**
 
 - 📫 How to reach me **nvraghuveerch@gmail.com , raghuchnv@gmail.com , nvraghuveertrainer@gmail.com **
 
