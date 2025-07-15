@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/nvRaghuveerChebrolu](https://github.com/nvRaghuveerChebrolu)
 
-     **Note**: I do have private projects that need access. Please contact me for more information.
+     **Note**: I do have private projects that need access. Please don't hesitate to contact me for more information.
   
 - 📝 I regularly write articles on [Tech, Testing, Selenium, Playwright, Java, JavaScript, Python, Automation Testing, API Testing]
 
-- 💬 Ask me about **Manual Testing, Selenium, Java, Python, GitHub, Jenkins, API Testing, API Automation**
+- 💬 Ask me about **Manual Testing, Automation Testing, Selenium, Playwright, Java, Python, GitHub, Jenkins, API Testing, API Automation**
 
 - 📫 How to reach me **nvraghuveerch@gmail.com , raghuchnv@gmail.com , nvraghuveertrainer@gmail.com **
 
