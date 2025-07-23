@@ -38,14 +38,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvraghuveerchebrolu&show_icons=true&locale=en&layout=compact" alt="nvraghuveerchebrolu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nvraghuveerchebrolu&" alt="nvraghuveerchebrolu" /></p>
 
 If you like my work, please consider buying me a tea/coffee:
-
 <a href="https://www.buymeacoffee.com/nvraghuveerchebrolu" target="_blank" rel="noreferrer nofollow">
 <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
